@@ -1,0 +1,14 @@
+{
+    "name": "campuslands-cli-esm",
+    "version": "1.0.0",
+    "description": "Gestor en Node puro con EcnaScript",
+  
+    "type": "module",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js",
+      "dev": "node --watch src/index.js"
+    },
+    "keywords": ["campuslands", "nodejs", "esm"],
+    "license": "ISC"
+  }
